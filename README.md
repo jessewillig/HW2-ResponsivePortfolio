@@ -5,4 +5,4 @@ Welcome to my portfolio! This is an overview of my technical background and pers
 ## Technologies Used
 
 * HTML, CSS
-* [Bootstrap] (https://getbootstrap.com/docs/4.5/getting-started/introduction/)
+* [Bootstrap](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
