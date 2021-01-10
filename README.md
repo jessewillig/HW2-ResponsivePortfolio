@@ -1,5 +1,8 @@
 # HW2-ResponsivePortfolio
 
-This project is a responsive website where as the page get's smaller everything moves/responds appropriately.
+Welcome to my portfolio! This is an overview of my technical background and personal style as well as a place for future employers to contact me for new work opportunities!
 
-It includes a navbar, links to 3 pages, "About Me", "Portfolio", and "Contact".
+## Technologies Used
+
+* HTML, CSS
+* [Bootstrap] (https://getbootstrap.com/docs/4.5/getting-started/introduction/)
