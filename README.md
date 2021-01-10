@@ -6,3 +6,11 @@ Welcome to my portfolio! This is an overview of my technical background and pers
 
 * HTML, CSS
 * [Bootstrap](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
+
+### Future Plans
+
+* Continue to update with work
+
+#### Questions
+
+* Please email me at jessewillig@outlook.com with any questions!
