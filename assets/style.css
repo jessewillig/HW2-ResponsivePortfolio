@@ -1,6 +1,12 @@
 h1, p, label, a {
     color: rgb(184, 214, 215);
 }
+.container {
+    margin: 75px 30px; 
+    float: left; 
+    width: 90vw; 
+    background-color: rgb(46, 69, 92);
+}
 .contactLinks {
     display: inline-block;
     float: right;
@@ -18,6 +24,8 @@ h1, p, label, a {
 }
 .card {
     background-color: rgb(74, 144, 243);
+    display: inline-block;
+    margin: 5px 5px;
 }
 .card-title, .card-text {
     color: rgb(46, 69, 92);
