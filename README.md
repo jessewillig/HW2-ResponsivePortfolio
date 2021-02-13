@@ -17,4 +17,4 @@ Welcome to my portfolio! This is an overview of my technical background and pers
 
 #### Questions
 
-* Please email me at jessewillig@outlook.com with any questions!
+* I can be reached at E: jessewillig@outlook.com, PH: 208-771-3143
