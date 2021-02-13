@@ -4,14 +4,12 @@ Welcome to my portfolio! This is an overview of my technical background and pers
 
 ## Deployed Site
 * Click [here](https://jessewillig.github.io/jessewilligPortfolio/) to see!
-
+![portfolio](./assets/portfolio.png)
 
 ## Technologies Used
 
 * HTML, CSS
 * [Bootstrap](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
-
-![portfolio](./assets/portfolio.png)
 
 ### Future Plans
 
